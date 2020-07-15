@@ -1,3 +1,3 @@
 var b = 1;
 function lgoin() {}
-var ;
+var  kk = 6;
